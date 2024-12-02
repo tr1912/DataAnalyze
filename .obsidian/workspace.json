@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "deae09a36a425535",
+        "id": "6d84e0c8b233e1cd",
         "type": "tabs",
         "children": [
           {
-            "id": "edc08d5cd35abc25",
+            "id": "0ca9c4cf93744068",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 LessonMemos/数据挖掘和机器学习/010、过拟合、欠拟合.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "010、过拟合、欠拟合"
+              "title": "新标签页"
             }
           }
         ]
@@ -44,7 +39,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -84,7 +79,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,7 +163,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "添加笔记属性"
             }
           },
           {
@@ -195,31 +191,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 559.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
       "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-git:Open Git source control": false,
       "pkmer:Open Pkmer Market": false,
       "obsidian-memos:Thino": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "edc08d5cd35abc25",
+  "active": "0ca9c4cf93744068",
   "lastOpenFiles": [
-    "03 LessonMemos/数据挖掘和机器学习/009、线性回归项目实战.md",
     "03 LessonMemos/数据挖掘和机器学习/010、过拟合、欠拟合.md",
+    "03 LessonMemos/数据挖掘和机器学习/009、线性回归项目实战.md",
     "03 LessonMemos/数据挖掘和机器学习/008、线性回归模型.md",
     "attachment/Pasted image 20241202001528.png",
     "README.md",
