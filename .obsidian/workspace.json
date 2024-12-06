@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.5
+    "width": 841.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,7 +214,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "09ca65d8d96a8855",
+  "active": "d2d0c0d117c6a17f",
   "lastOpenFiles": [
     "03 LessonMemos/数据挖掘和机器学习/011、多项式回归.md",
     "03 LessonMemos/数据挖掘和机器学习/010、过拟合、欠拟合.md",
