@@ -11,13 +11,15 @@
             "id": "09ca65d8d96a8855",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".trash/Pasted image 20241205011915.png",
-                "staged": false
+                "file": "03 LessonMemos/数据挖掘和机器学习/010、过拟合、欠拟合.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Pasted image 20241205011915.png)"
+              "icon": "lucide-file",
+              "title": "010、过拟合、欠拟合"
             }
           }
         ]
@@ -193,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 567.5
+    "width": 538.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +216,8 @@
   },
   "active": "09ca65d8d96a8855",
   "lastOpenFiles": [
-    "03 LessonMemos/数据挖掘和机器学习/010、过拟合、欠拟合.md",
     "03 LessonMemos/数据挖掘和机器学习/011、多项式回归.md",
+    "03 LessonMemos/数据挖掘和机器学习/010、过拟合、欠拟合.md",
     "03 LessonMemos/数据挖掘和机器学习/009、线性回归项目实战.md",
     "03 LessonMemos/数据挖掘和机器学习/008、线性回归模型.md",
     "attachment/Pasted image 20241205013742.png",
