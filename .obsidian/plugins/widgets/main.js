@@ -23562,7 +23562,9 @@ Clock.defaultProps = {
 // src/Countdown/index.tsx
 var import_react = __toESM(require_react());
 var import_obsidian2 = require("obsidian");
-var Countdown = ({ settings: { date, to } }) => {
+var Countdown = ({
+  settings: { date, to, completedLabel }
+}) => {
   const [countdown, setCountdown] = (0, import_react.useState)({
     days: 0,
     hours: 0,
@@ -23571,7 +23573,7 @@ var Countdown = ({ settings: { date, to } }) => {
   });
   const [invalidDate, setInvalidDate] = (0, import_react.useState)(null);
   (0, import_react.useEffect)(() => {
-    const dateRegex = /^(\+)(\d+)([smh])$/;
+    const dateRegex = /^(\+)(\d+)([smhd])$/;
     const dateMatch = date.match(dateRegex);
     let endTime;
     if (dateMatch) {
@@ -23588,6 +23590,9 @@ var Countdown = ({ settings: { date, to } }) => {
         case "h":
           endTime.add(parseInt(value), "hours");
           break;
+        case "d":
+          endTime.add(parseInt(value), "days");
+          break;
       }
     } else {
       endTime = (0, import_obsidian2.moment)(`${date}`);
@@ -23600,7 +23605,7 @@ var Countdown = ({ settings: { date, to } }) => {
       const currentTime = (0, import_obsidian2.moment)();
       const diffInSeconds = endTime.diff(currentTime, "seconds");
       if (diffInSeconds < 0) {
-        setInvalidDate("Completed! \u{1F389}");
+        setInvalidDate(completedLabel || "Completed! \u{1F389}");
         return;
       }
       const days = Math.floor(diffInSeconds / 86400);
@@ -23635,10 +23640,10 @@ var Counter = ({ settings, helperFunctions, leafId }) => {
     helperFunctions.readFromDataJson().then((data) => {
       let path;
       if (leafId.length > 0) {
-        path = leafId;
+        path = leafId + (settings.id ? `-${settings.id}` : "");
       } else {
         const { path: filePath } = helperFunctions.getCurrentOpenFile();
-        path = filePath;
+        path = filePath + (settings.id ? `-${settings.id}` : "");
       }
       if (!data[path]) {
         writeToDataJson(0);
@@ -23666,10 +23671,10 @@ var Counter = ({ settings, helperFunctions, leafId }) => {
     helperFunctions.readFromDataJson().then((data) => {
       let path;
       if (leafId.length > 0) {
-        path = leafId;
+        path = leafId + (settings.id ? `-${settings.id}` : "");
       } else {
         const { path: filePath } = helperFunctions.getCurrentOpenFile();
-        path = filePath;
+        path = filePath + (settings.id ? `-${settings.id}` : "");
       }
       helperFunctions.writeToDataJson({
         ...data,
