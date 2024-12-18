@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "010、过拟合、欠拟合",
-      "path": "03 LessonMemos/数据挖掘和机器学习/010、过拟合、欠拟合.md"
+      "basename": "001、开窗函数(窗口)",
+      "path": "03 LessonMemos/MySql/001、开窗函数(窗口).md"
     },
     {
-      "basename": "011、多项式回归",
-      "path": "03 LessonMemos/数据挖掘和机器学习/011、多项式回归.md"
+      "basename": "013、逻辑回归模型",
+      "path": "03 LessonMemos/数据挖掘和机器学习/013、逻辑回归模型.md"
+    },
+    {
+      "basename": "012、正则化处理-过拟合",
+      "path": "03 LessonMemos/数据挖掘和机器学习/012、正则化处理-过拟合.md"
+    },
+    {
+      "basename": "011、多项式回归-处理欠拟合",
+      "path": "03 LessonMemos/数据挖掘和机器学习/011、多项式回归-处理欠拟合.md"
     },
     {
       "basename": "009、线性回归项目实战",
@@ -15,6 +23,10 @@
     {
       "basename": "008、线性回归模型",
       "path": "03 LessonMemos/数据挖掘和机器学习/008、线性回归模型.md"
+    },
+    {
+      "basename": "010、过拟合、欠拟合",
+      "path": "03 LessonMemos/数据挖掘和机器学习/010、过拟合、欠拟合.md"
     },
     {
       "basename": "未命名",
