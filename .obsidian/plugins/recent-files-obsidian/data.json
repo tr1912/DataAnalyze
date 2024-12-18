@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "02 联表查询",
+      "path": "05 TrainReocrd/mysql/02 联表查询.md"
+    },
+    {
+      "basename": "02 数据删除",
+      "path": "05 TrainReocrd/python/02 数据删除.md"
+    },
+    {
+      "basename": "01 空值判断类",
+      "path": "05 TrainReocrd/python/01 空值判断类.md"
+    },
+    {
+      "basename": "属性笔记",
+      "path": "00 Inbox/属性笔记.md"
+    },
+    {
+      "basename": "01 简单汇总查询",
+      "path": "05 TrainReocrd/mysql/01 简单汇总查询.md"
+    },
+    {
       "basename": "2024-12-18 MeetingRecord",
       "path": "02 MeetingRecord/2024-12-18 MeetingRecord.md"
     },
     {
       "basename": "template_meetingRecord",
       "path": "00 Template/template_meetingRecord.md"
-    },
-    {
-      "basename": "属性笔记",
-      "path": "00 Inbox/属性笔记.md"
     },
     {
       "basename": "MarkDown语法",
