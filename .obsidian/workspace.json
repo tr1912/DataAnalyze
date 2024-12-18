@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 841.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,6 +226,7 @@
     "03 LessonMemos/数据挖掘和机器学习/011、多项式回归-处理欠拟合.md",
     "attachment/Pasted image 20241208160610.png",
     "03 LessonMemos/数据挖掘和机器学习/009、线性回归项目实战.md",
+    "03 LessonMemos/数据挖掘和机器学习/011、多项式回归.md",
     "03 LessonMemos/数据挖掘和机器学习/008、线性回归模型.md",
     "03 LessonMemos/数据挖掘和机器学习/010、过拟合、欠拟合.md",
     "attachment/Pasted image 20241205013742.png",
