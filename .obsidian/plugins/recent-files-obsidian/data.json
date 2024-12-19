@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "05 TrainReocrd/mysql/未命名.md"
-    },
-    {
-      "basename": "02 单表查询",
-      "path": "05 TrainReocrd/mysql/02 单表查询.md"
-    },
-    {
       "basename": "03 判断+列操作",
       "path": "05 TrainReocrd/python/03 判断+列操作.md"
+    },
+    {
+      "basename": "02 数据删除",
+      "path": "05 TrainReocrd/python/02 数据删除.md"
     },
     {
       "basename": "01 空值判断类",
       "path": "05 TrainReocrd/python/01 空值判断类.md"
     },
     {
-      "basename": "02 数据删除",
-      "path": "05 TrainReocrd/python/02 数据删除.md"
+      "basename": "03 联表查询",
+      "path": "05 TrainReocrd/mysql/03 联表查询.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "05 TrainReocrd/mysql/未命名.md"
+    },
+    {
+      "basename": "02 单表查询",
+      "path": "05 TrainReocrd/mysql/02 单表查询.md"
     },
     {
       "basename": "属性笔记",
