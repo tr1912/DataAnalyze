@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "Pandas练习",
+      "path": "05 TrainReocrd/python/Pandas练习.md"
+    },
+    {
+      "basename": "01 空值判断类",
+      "path": "05 TrainReocrd/python/01 空值判断类.md"
+    },
+    {
+      "basename": "03 判断+列操作",
+      "path": "05 TrainReocrd/python/03 判断+列操作.md"
+    },
+    {
+      "basename": "02 单表查询",
+      "path": "05 TrainReocrd/mysql/02 单表查询.md"
+    },
+    {
+      "basename": "04 排名问题",
+      "path": "05 TrainReocrd/mysql/04 排名问题.md"
+    },
+    {
+      "basename": "02 数据删除",
+      "path": "05 TrainReocrd/python/02 数据删除.md"
+    },
+    {
+      "basename": "03 联表查询",
+      "path": "05 TrainReocrd/mysql/03 联表查询.md"
+    },
+    {
+      "basename": "01 简单汇总查询",
+      "path": "05 TrainReocrd/mysql/01 简单汇总查询.md"
+    },
+    {
       "basename": "001、开窗函数(窗口)",
       "path": "03 LessonMemos/MySql/001、开窗函数(窗口).md"
+    },
+    {
+      "basename": "属性笔记",
+      "path": "00 Inbox/属性笔记.md"
+    },
+    {
+      "basename": "2024-12-18 MeetingRecord",
+      "path": "02 MeetingRecord/2024-12-18 MeetingRecord.md"
+    },
+    {
+      "basename": "template_meetingRecord",
+      "path": "00 Template/template_meetingRecord.md"
+    },
+    {
+      "basename": "MarkDown语法",
+      "path": "00 Inbox/MarkDown语法.md"
+    },
+    {
+      "basename": "temlate_diary",
+      "path": "00 Template/temlate_diary.md"
+    },
+    {
+      "basename": "template_metainfo_yaml",
+      "path": "00 Template/template_metainfo_yaml.md"
     },
     {
       "basename": "013、逻辑回归模型",
