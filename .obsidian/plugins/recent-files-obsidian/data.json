@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "02 单表查询",
+      "path": "05 TrainReocrd/mysql/02 单表查询.md"
+    },
+    {
+      "basename": "05 时间、数值格式化",
+      "path": "05 TrainReocrd/python/05 时间、数值格式化.md"
+    },
+    {
+      "basename": "04 排名问题",
+      "path": "05 TrainReocrd/mysql/04 排名问题.md"
+    },
+    {
+      "basename": "06 字典操作",
+      "path": "05 TrainReocrd/python/06 字典操作.md"
+    },
+    {
+      "basename": "03 联表查询",
+      "path": "05 TrainReocrd/mysql/03 联表查询.md"
+    },
+    {
+      "basename": "03 判断+列操作",
+      "path": "05 TrainReocrd/python/03 判断+列操作.md"
+    },
+    {
+      "basename": "04 多数据集操作",
+      "path": "05 TrainReocrd/python/04 多数据集操作.md"
+    },
+    {
       "basename": "Pandas练习",
       "path": "05 TrainReocrd/python/Pandas练习.md"
     },
@@ -9,24 +37,8 @@
       "path": "05 TrainReocrd/python/01 空值判断类.md"
     },
     {
-      "basename": "03 判断+列操作",
-      "path": "05 TrainReocrd/python/03 判断+列操作.md"
-    },
-    {
-      "basename": "02 单表查询",
-      "path": "05 TrainReocrd/mysql/02 单表查询.md"
-    },
-    {
-      "basename": "04 排名问题",
-      "path": "05 TrainReocrd/mysql/04 排名问题.md"
-    },
-    {
       "basename": "02 数据删除",
       "path": "05 TrainReocrd/python/02 数据删除.md"
-    },
-    {
-      "basename": "03 联表查询",
-      "path": "05 TrainReocrd/mysql/03 联表查询.md"
     },
     {
       "basename": "01 简单汇总查询",
