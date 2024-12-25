@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 269.5
   },
   "right": {
     "id": "3305076aedb1fdf0",
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,19 +214,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d2d0c0d117c6a17f",
+  "active": "d0e2689e0893ef14",
   "lastOpenFiles": [
+    "attachment/Pasted image 20241226013306.png",
+    "attachment/Pasted image 20241226013302.png",
+    "attachment/Pasted image 20241226013108.png",
+    "attachment/Pasted image 20241226012913.png",
+    "attachment/Pasted image 20241226012739.png",
+    "attachment/Pasted image 20241226012620.png",
+    "attachment/Pasted image 20241226012515.png",
+    "attachment/Pasted image 20241226012359.png",
+    "attachment/Pasted image 20241226012302.png",
     "03 LessonMemos/数据分析模型/05 漏斗模型.md",
     "attachment/Pasted image 20241225213836.png",
     "attachment/Pasted image 20241225213754.png",
-    "attachment/Pasted image 20241225213651.png",
-    "attachment/Pasted image 20241225213602.png",
-    "attachment/Pasted image 20241225213456.png",
-    "attachment/Pasted image 20241225213420.png",
-    "attachment/Pasted image 20241225213348.png",
-    "attachment/Pasted image 20241225213311.png",
-    "attachment/Pasted image 20241225213254.png",
-    "attachment/Pasted image 20241225213231.png",
     "03 LessonMemos/数据分析模型/06 归因分析模型.md",
     "03 LessonMemos/数据分析模型/04 营销分析模型.md",
     "03 LessonMemos/数据分析模型/03 杜邦分析法.md",
