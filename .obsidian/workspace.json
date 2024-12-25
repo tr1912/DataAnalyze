@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 LessonMemos/数据分析模型/04 营销分析模型.md",
+                "file": "03 LessonMemos/数据分析模型/06 归因分析模型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 营销分析模型"
+              "title": "06 归因分析模型"
             }
           }
         ]
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 LessonMemos/数据分析模型/04 营销分析模型.md"
+                "file": "03 LessonMemos/数据分析模型/06 归因分析模型.md"
               },
               "icon": "lucide-list",
-              "title": "04 营销分析模型 的大纲"
+              "title": "06 归因分析模型 的大纲"
             }
           },
           {
@@ -216,18 +216,20 @@
   },
   "active": "d2d0c0d117c6a17f",
   "lastOpenFiles": [
-    "03 LessonMemos/数据分析模型/03 杜邦分析法.md",
-    "attachment/Pasted image 20241225210019.png",
-    "attachment/Pasted image 20241225210012.png",
-    "attachment/Pasted image 20241225210001.png",
-    "attachment/Pasted image 20241225205917.png",
-    "attachment/Pasted image 20241225205848.png",
+    "03 LessonMemos/数据分析模型/05 漏斗模型.md",
+    "attachment/Pasted image 20241225213836.png",
+    "attachment/Pasted image 20241225213754.png",
+    "attachment/Pasted image 20241225213651.png",
+    "attachment/Pasted image 20241225213602.png",
+    "attachment/Pasted image 20241225213456.png",
+    "attachment/Pasted image 20241225213420.png",
+    "attachment/Pasted image 20241225213348.png",
+    "attachment/Pasted image 20241225213311.png",
+    "attachment/Pasted image 20241225213254.png",
+    "attachment/Pasted image 20241225213231.png",
+    "03 LessonMemos/数据分析模型/06 归因分析模型.md",
     "03 LessonMemos/数据分析模型/04 营销分析模型.md",
-    "attachment/Pasted image 20241225205722.png",
-    "attachment/Pasted image 20241225205624.png",
-    "attachment/Pasted image 20241225205553.png",
-    "attachment/Pasted image 20241225205455.png",
-    "attachment/Pasted image 20241225205304.png",
+    "03 LessonMemos/数据分析模型/03 杜邦分析法.md",
     "03 LessonMemos/数据分析模型/02 AARRR用户增长模型.md",
     "03 LessonMemos/数据分析模型/01 RFM模型.md",
     "03 LessonMemos/MySql/001、开窗函数(窗口).md",
@@ -250,8 +252,6 @@
     "05 TrainReocrd/mysql/04 排名问题.md",
     "05 TrainReocrd/python/06 字典操作.md",
     "05 TrainReocrd/mysql/03 联表查询.md",
-    "05 TrainReocrd/python/03 判断+列操作.md",
-    "05 TrainReocrd/python/04 多数据集操作.md",
     "05 TrainReocrd/mysql",
     "05 TrainReocrd/python",
     "未命名",
