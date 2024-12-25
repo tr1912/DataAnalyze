@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "04 营销分析模型",
+      "path": "03 LessonMemos/数据分析模型/04 营销分析模型.md"
+    },
+    {
+      "basename": "03 杜邦分析法",
+      "path": "03 LessonMemos/数据分析模型/03 杜邦分析法.md"
+    },
+    {
+      "basename": "02 AARRR用户增长模型",
+      "path": "03 LessonMemos/数据分析模型/02 AARRR用户增长模型.md"
+    },
+    {
+      "basename": "01 RFM模型",
+      "path": "03 LessonMemos/数据分析模型/01 RFM模型.md"
+    },
+    {
+      "basename": "Pasted image 20241225200322",
+      "path": "attachment/Pasted image 20241225200322.png"
+    },
+    {
       "basename": "001、开窗函数(窗口)",
       "path": "03 LessonMemos/MySql/001、开窗函数(窗口).md"
+    },
+    {
+      "basename": "010、过拟合、欠拟合",
+      "path": "03 LessonMemos/数据挖掘和机器学习/010、过拟合、欠拟合.md"
+    },
+    {
+      "basename": "011、多项式回归-处理欠拟合",
+      "path": "03 LessonMemos/数据挖掘和机器学习/011、多项式回归-处理欠拟合.md"
+    },
+    {
+      "basename": "009、线性回归项目实战",
+      "path": "03 LessonMemos/数据挖掘和机器学习/009、线性回归项目实战.md"
+    },
+    {
+      "basename": "012、正则化处理-过拟合",
+      "path": "03 LessonMemos/数据挖掘和机器学习/012、正则化处理-过拟合.md"
+    },
+    {
+      "basename": "013、逻辑回归模型",
+      "path": "03 LessonMemos/数据挖掘和机器学习/013、逻辑回归模型.md"
     },
     {
       "basename": "001、初识",
@@ -35,26 +75,6 @@
     {
       "basename": "008、线性回归模型",
       "path": "03 LessonMemos/数据挖掘和机器学习/008、线性回归模型.md"
-    },
-    {
-      "basename": "009、线性回归项目实战",
-      "path": "03 LessonMemos/数据挖掘和机器学习/009、线性回归项目实战.md"
-    },
-    {
-      "basename": "010、过拟合、欠拟合",
-      "path": "03 LessonMemos/数据挖掘和机器学习/010、过拟合、欠拟合.md"
-    },
-    {
-      "basename": "012、正则化处理-过拟合",
-      "path": "03 LessonMemos/数据挖掘和机器学习/012、正则化处理-过拟合.md"
-    },
-    {
-      "basename": "011、多项式回归-处理欠拟合",
-      "path": "03 LessonMemos/数据挖掘和机器学习/011、多项式回归-处理欠拟合.md"
-    },
-    {
-      "basename": "013、逻辑回归模型",
-      "path": "03 LessonMemos/数据挖掘和机器学习/013、逻辑回归模型.md"
     },
     {
       "basename": "02 单表查询",
