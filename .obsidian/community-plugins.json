@@ -12,5 +12,6 @@
   "calendar",
   "obsidian-git",
   "obsidian-memos",
-  "markdown-prettifier"
+  "markdown-prettifier",
+  "obsidian-regex-pipeline"
 ]
