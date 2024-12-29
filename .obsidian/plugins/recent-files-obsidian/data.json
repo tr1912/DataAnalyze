@@ -1,36 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "02 单表查询",
-      "path": "05 TrainReocrd/mysql/02 单表查询.md"
+      "basename": "06 字典操作",
+      "path": "05 TrainReocrd/python/06 字典操作.md"
+    },
+    {
+      "basename": "Pandas练习",
+      "path": "05 TrainReocrd/python/Pandas练习.md"
     },
     {
       "basename": "05 时间、数值格式化",
       "path": "05 TrainReocrd/python/05 时间、数值格式化.md"
     },
     {
-      "basename": "04 排名问题",
-      "path": "05 TrainReocrd/mysql/04 排名问题.md"
-    },
-    {
-      "basename": "06 字典操作",
-      "path": "05 TrainReocrd/python/06 字典操作.md"
-    },
-    {
-      "basename": "03 联表查询",
-      "path": "05 TrainReocrd/mysql/03 联表查询.md"
-    },
-    {
-      "basename": "03 判断+列操作",
-      "path": "05 TrainReocrd/python/03 判断+列操作.md"
-    },
-    {
       "basename": "04 多数据集操作",
       "path": "05 TrainReocrd/python/04 多数据集操作.md"
     },
     {
-      "basename": "Pandas练习",
-      "path": "05 TrainReocrd/python/Pandas练习.md"
+      "basename": "03 判断+列操作",
+      "path": "05 TrainReocrd/python/03 判断+列操作.md"
     },
     {
       "basename": "01 空值判断类",
@@ -41,12 +29,104 @@
       "path": "05 TrainReocrd/python/02 数据删除.md"
     },
     {
-      "basename": "01 简单汇总查询",
-      "path": "05 TrainReocrd/mysql/01 简单汇总查询.md"
+      "basename": "04 排名问题",
+      "path": "05 TrainReocrd/mysql/04 排名问题.md"
+    },
+    {
+      "basename": "03 联表查询",
+      "path": "05 TrainReocrd/mysql/03 联表查询.md"
+    },
+    {
+      "basename": "02 单表查询",
+      "path": "05 TrainReocrd/mysql/02 单表查询.md"
     },
     {
       "basename": "001、开窗函数(窗口)",
       "path": "03 LessonMemos/MySql/001、开窗函数(窗口).md"
+    },
+    {
+      "basename": "01 简单汇总查询",
+      "path": "05 TrainReocrd/mysql/01 简单汇总查询.md"
+    },
+    {
+      "basename": "06 归因分析模型",
+      "path": "03 LessonMemos/数据分析模型/06 归因分析模型.md"
+    },
+    {
+      "basename": "05 漏斗模型",
+      "path": "03 LessonMemos/数据分析模型/05 漏斗模型.md"
+    },
+    {
+      "basename": "04 营销分析模型",
+      "path": "03 LessonMemos/数据分析模型/04 营销分析模型.md"
+    },
+    {
+      "basename": "03 杜邦分析法",
+      "path": "03 LessonMemos/数据分析模型/03 杜邦分析法.md"
+    },
+    {
+      "basename": "02 AARRR用户增长模型",
+      "path": "03 LessonMemos/数据分析模型/02 AARRR用户增长模型.md"
+    },
+    {
+      "basename": "01 RFM模型",
+      "path": "03 LessonMemos/数据分析模型/01 RFM模型.md"
+    },
+    {
+      "basename": "Pasted image 20241225200322",
+      "path": "attachment/Pasted image 20241225200322.png"
+    },
+    {
+      "basename": "010、过拟合、欠拟合",
+      "path": "03 LessonMemos/数据挖掘和机器学习/010、过拟合、欠拟合.md"
+    },
+    {
+      "basename": "011、多项式回归-处理欠拟合",
+      "path": "03 LessonMemos/数据挖掘和机器学习/011、多项式回归-处理欠拟合.md"
+    },
+    {
+      "basename": "009、线性回归项目实战",
+      "path": "03 LessonMemos/数据挖掘和机器学习/009、线性回归项目实战.md"
+    },
+    {
+      "basename": "012、正则化处理-过拟合",
+      "path": "03 LessonMemos/数据挖掘和机器学习/012、正则化处理-过拟合.md"
+    },
+    {
+      "basename": "013、逻辑回归模型",
+      "path": "03 LessonMemos/数据挖掘和机器学习/013、逻辑回归模型.md"
+    },
+    {
+      "basename": "001、初识",
+      "path": "03 LessonMemos/数据挖掘和机器学习/001、初识.md"
+    },
+    {
+      "basename": "002、数据集",
+      "path": "03 LessonMemos/数据挖掘和机器学习/002、数据集.md"
+    },
+    {
+      "basename": "003、特征工程",
+      "path": "03 LessonMemos/数据挖掘和机器学习/003、特征工程.md"
+    },
+    {
+      "basename": "004、KNN分类模型",
+      "path": "03 LessonMemos/数据挖掘和机器学习/004、KNN分类模型.md"
+    },
+    {
+      "basename": "005、KNN分类模型实战",
+      "path": "03 LessonMemos/数据挖掘和机器学习/005、KNN分类模型实战.md"
+    },
+    {
+      "basename": "006、KNN分类模型进阶",
+      "path": "03 LessonMemos/数据挖掘和机器学习/006、KNN分类模型进阶.md"
+    },
+    {
+      "basename": "007、图像识别项目-人脸识别",
+      "path": "03 LessonMemos/数据挖掘和机器学习/007、图像识别项目-人脸识别.md"
+    },
+    {
+      "basename": "008、线性回归模型",
+      "path": "03 LessonMemos/数据挖掘和机器学习/008、线性回归模型.md"
     },
     {
       "basename": "属性笔记",
@@ -73,44 +153,12 @@
       "path": "00 Template/template_metainfo_yaml.md"
     },
     {
-      "basename": "013、逻辑回归模型",
-      "path": "03 LessonMemos/数据挖掘和机器学习/013、逻辑回归模型.md"
-    },
-    {
-      "basename": "012、正则化处理-过拟合",
-      "path": "03 LessonMemos/数据挖掘和机器学习/012、正则化处理-过拟合.md"
-    },
-    {
-      "basename": "011、多项式回归-处理欠拟合",
-      "path": "03 LessonMemos/数据挖掘和机器学习/011、多项式回归-处理欠拟合.md"
-    },
-    {
-      "basename": "009、线性回归项目实战",
-      "path": "03 LessonMemos/数据挖掘和机器学习/009、线性回归项目实战.md"
-    },
-    {
-      "basename": "008、线性回归模型",
-      "path": "03 LessonMemos/数据挖掘和机器学习/008、线性回归模型.md"
-    },
-    {
-      "basename": "010、过拟合、欠拟合",
-      "path": "03 LessonMemos/数据挖掘和机器学习/010、过拟合、欠拟合.md"
-    },
-    {
       "basename": "未命名",
       "path": "03 LessonMemos/数据挖掘和机器学习/未命名.md"
     },
     {
-      "basename": "003、特征工程",
-      "path": "03 LessonMemos/数据挖掘和机器学习/003、特征工程.md"
-    },
-    {
       "basename": "002、",
       "path": "03 LessonMemos/数据挖掘和机器学习/002、.md"
-    },
-    {
-      "basename": "001、初识",
-      "path": "03 LessonMemos/数据挖掘和机器学习/001、初识.md"
     }
   ],
   "omittedPaths": [],
