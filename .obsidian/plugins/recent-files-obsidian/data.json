@@ -5,6 +5,30 @@
       "path": "05 TrainReocrd/python/06 字典操作.md"
     },
     {
+      "basename": "001、开窗函数(窗口)",
+      "path": "03 LessonMemos/MySql/001、开窗函数(窗口).md"
+    },
+    {
+      "basename": "013、逻辑回归模型",
+      "path": "03 LessonMemos/数据挖掘和机器学习/013、逻辑回归模型.md"
+    },
+    {
+      "basename": "014、聚类算法",
+      "path": "03 LessonMemos/数据挖掘和机器学习/014、聚类算法.md"
+    },
+    {
+      "basename": "015、KMeans模型",
+      "path": "03 LessonMemos/数据挖掘和机器学习/015、KMeans模型.md"
+    },
+    {
+      "basename": "016、广告渠道聚类分析",
+      "path": "03 LessonMemos/数据挖掘和机器学习/016、广告渠道聚类分析.md"
+    },
+    {
+      "basename": "017、决策树模型",
+      "path": "03 LessonMemos/数据挖掘和机器学习/017、决策树模型.md"
+    },
+    {
       "basename": "Pandas练习",
       "path": "05 TrainReocrd/python/Pandas练习.md"
     },
@@ -39,10 +63,6 @@
     {
       "basename": "02 单表查询",
       "path": "05 TrainReocrd/mysql/02 单表查询.md"
-    },
-    {
-      "basename": "001、开窗函数(窗口)",
-      "path": "03 LessonMemos/MySql/001、开窗函数(窗口).md"
     },
     {
       "basename": "01 简单汇总查询",
@@ -91,10 +111,6 @@
     {
       "basename": "012、正则化处理-过拟合",
       "path": "03 LessonMemos/数据挖掘和机器学习/012、正则化处理-过拟合.md"
-    },
-    {
-      "basename": "013、逻辑回归模型",
-      "path": "03 LessonMemos/数据挖掘和机器学习/013、逻辑回归模型.md"
     },
     {
       "basename": "001、初识",
