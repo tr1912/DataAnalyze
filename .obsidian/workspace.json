@@ -17,7 +17,7 @@
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (06 字典操作)"
+              "title": "Diff View"
             }
           }
         ]
@@ -39,7 +39,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -82,7 +83,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,8 +176,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -197,7 +199,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-regex-pipeline:Regex Rulesets": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -208,9 +209,10 @@
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
       "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-memos:Thino": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
   "active": "d0e2689e0893ef14",
