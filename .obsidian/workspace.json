@@ -30,21 +30,8 @@
               "icon": "lucide-file",
               "title": "2024-12-18 MeetingRecord"
             }
-          },
-          {
-            "id": "4aa20468a353a59f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +225,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4aa20468a353a59f",
+  "active": "d2d0c0d117c6a17f",
   "lastOpenFiles": [
     "03 LessonMemos/数据挖掘和机器学习/007、图像识别项目-人脸识别.md",
     "05 TrainReocrd/mysql/02 单表查询.md",
