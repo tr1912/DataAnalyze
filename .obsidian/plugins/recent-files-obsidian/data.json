@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-12-18 MeetingRecord",
+      "path": "02 MeetingRecord/2024-12-18 MeetingRecord.md"
+    },
+    {
+      "basename": "007、图像识别项目-人脸识别",
+      "path": "03 LessonMemos/数据挖掘和机器学习/007、图像识别项目-人脸识别.md"
+    },
+    {
+      "basename": "02 单表查询",
+      "path": "05 TrainReocrd/mysql/02 单表查询.md"
+    },
+    {
+      "basename": "01 简单汇总查询",
+      "path": "05 TrainReocrd/mysql/01 简单汇总查询.md"
+    },
+    {
       "basename": "06 字典操作",
       "path": "05 TrainReocrd/python/06 字典操作.md"
     },
@@ -59,14 +75,6 @@
     {
       "basename": "03 联表查询",
       "path": "05 TrainReocrd/mysql/03 联表查询.md"
-    },
-    {
-      "basename": "02 单表查询",
-      "path": "05 TrainReocrd/mysql/02 单表查询.md"
-    },
-    {
-      "basename": "01 简单汇总查询",
-      "path": "05 TrainReocrd/mysql/01 简单汇总查询.md"
     },
     {
       "basename": "06 归因分析模型",
@@ -137,20 +145,12 @@
       "path": "03 LessonMemos/数据挖掘和机器学习/006、KNN分类模型进阶.md"
     },
     {
-      "basename": "007、图像识别项目-人脸识别",
-      "path": "03 LessonMemos/数据挖掘和机器学习/007、图像识别项目-人脸识别.md"
-    },
-    {
       "basename": "008、线性回归模型",
       "path": "03 LessonMemos/数据挖掘和机器学习/008、线性回归模型.md"
     },
     {
       "basename": "属性笔记",
       "path": "00 Inbox/属性笔记.md"
-    },
-    {
-      "basename": "2024-12-18 MeetingRecord",
-      "path": "02 MeetingRecord/2024-12-18 MeetingRecord.md"
     },
     {
       "basename": "template_meetingRecord",
@@ -179,5 +179,6 @@
   ],
   "omittedPaths": [],
   "omittedTags": [],
+  "updateOn": "file-open",
   "omitBookmarks": false
 }
