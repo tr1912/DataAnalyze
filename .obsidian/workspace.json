@@ -11,13 +11,24 @@
             "id": "d0e2689e0893ef14",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "05 TrainReocrd/python/06 字典操作.md",
-                "staged": false
+                "file": "02 MeetingRecord/2024-12-18 MeetingRecord.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View"
+              "icon": "lucide-file",
+              "title": "2024-12-18 MeetingRecord"
             }
           }
         ]
@@ -83,8 +94,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,14 +219,17 @@
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-memos:Thino": false,
-      "obsidian-regex-pipeline:Regex Rulesets": false
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d0e2689e0893ef14",
+  "active": "d2d0c0d117c6a17f",
   "lastOpenFiles": [
+    "03 LessonMemos/数据挖掘和机器学习/007、图像识别项目-人脸识别.md",
+    "05 TrainReocrd/mysql/02 单表查询.md",
+    "05 TrainReocrd/mysql/01 简单汇总查询.md",
     "05 TrainReocrd/python/06 字典操作.md",
     "03 LessonMemos/MySql/001、开窗函数(窗口).md",
     "03 LessonMemos/数据挖掘和机器学习/013、逻辑回归模型.md",
@@ -232,8 +245,6 @@
     "05 TrainReocrd/python/02 数据删除.md",
     "05 TrainReocrd/mysql/04 排名问题.md",
     "05 TrainReocrd/mysql/03 联表查询.md",
-    "05 TrainReocrd/mysql/02 单表查询.md",
-    "05 TrainReocrd/mysql/01 简单汇总查询.md",
     "03 LessonMemos/数据分析模型/06 归因分析模型.md",
     "attachment/Pasted image 20241226013306.png",
     "attachment/Pasted image 20241226013302.png",
@@ -253,7 +264,6 @@
     "03 LessonMemos/数据分析模型",
     "03 LessonMemos/数据挖掘和机器学习/010、过拟合、欠拟合.md",
     "03 LessonMemos/数据挖掘和机器学习/011、多项式回归-处理欠拟合.md",
-    "03 LessonMemos/数据挖掘和机器学习/009、线性回归项目实战.md",
     "05 TrainReocrd/mysql",
     "05 TrainReocrd/python",
     "未命名",
