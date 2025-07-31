@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8ce1b37940c4d9ad",
+        "id": "e1d02f26b1104163",
         "type": "tabs",
         "children": [
           {
-            "id": "d0e2689e0893ef14",
+            "id": "54ef644f21830ea7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "02 MeetingRecord/2024-12-18 MeetingRecord.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "04 DiyLearnMemos/总领.md",
+                "bFile": "04 DiyLearnMemos/总领.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2024-12-18 MeetingRecord"
+              "icon": "diff",
+              "title": "Diff: 总领"
             }
           }
         ]
@@ -222,29 +212,34 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-memos:Thino": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2d0c0d117c6a17f",
+  "active": "1a3d21c3609e9b91",
   "lastOpenFiles": [
-    "03 LessonMemos/数据挖掘和机器学习/007、图像识别项目-人脸识别.md",
+    "03 LessonMemos/数据挖掘和机器学习/006、KNN分类模型进阶.md",
     "05 TrainReocrd/mysql/02 单表查询.md",
-    "05 TrainReocrd/mysql/01 简单汇总查询.md",
-    "05 TrainReocrd/python/06 字典操作.md",
+    "02 MeetingRecord/2024-12-18 MeetingRecord.md",
     "03 LessonMemos/MySql/001、开窗函数(窗口).md",
+    "03 LessonMemos/数据挖掘和机器学习/017、决策树模型.md",
+    "03 LessonMemos/数据挖掘和机器学习/002、数据集.md",
+    "03 LessonMemos/数据挖掘和机器学习/001、初识.md",
+    "04 DiyLearnMemos/总领.md",
+    "04 DiyLearnMemos/提问的智慧.md",
+    "05 TrainReocrd/python/01 空值判断类.md",
+    "05 TrainReocrd/python/06 字典操作.md",
     "03 LessonMemos/数据挖掘和机器学习/013、逻辑回归模型.md",
     "03 LessonMemos/数据挖掘和机器学习/014、聚类算法.md",
     "03 LessonMemos/数据挖掘和机器学习/015、KMeans模型.md",
     "03 LessonMemos/数据挖掘和机器学习/016、广告渠道聚类分析.md",
-    "03 LessonMemos/数据挖掘和机器学习/017、决策树模型.md",
     "05 TrainReocrd/python/Pandas练习.md",
     "05 TrainReocrd/python/05 时间、数值格式化.md",
     "05 TrainReocrd/python/04 多数据集操作.md",
     "05 TrainReocrd/python/03 判断+列操作.md",
-    "05 TrainReocrd/python/01 空值判断类.md",
     "05 TrainReocrd/python/02 数据删除.md",
     "05 TrainReocrd/mysql/04 排名问题.md",
     "05 TrainReocrd/mysql/03 联表查询.md",
+    "05 TrainReocrd/mysql/01 简单汇总查询.md",
     "03 LessonMemos/数据分析模型/06 归因分析模型.md",
     "attachment/Pasted image 20241226013306.png",
     "attachment/Pasted image 20241226013302.png",
@@ -258,12 +253,7 @@
     "03 LessonMemos/数据分析模型/05 漏斗模型.md",
     "attachment/Pasted image 20241225213836.png",
     "03 LessonMemos/数据分析模型/04 营销分析模型.md",
-    "03 LessonMemos/数据分析模型/03 杜邦分析法.md",
-    "03 LessonMemos/数据分析模型/02 AARRR用户增长模型.md",
-    "03 LessonMemos/数据分析模型/01 RFM模型.md",
     "03 LessonMemos/数据分析模型",
-    "03 LessonMemos/数据挖掘和机器学习/010、过拟合、欠拟合.md",
-    "03 LessonMemos/数据挖掘和机器学习/011、多项式回归-处理欠拟合.md",
     "05 TrainReocrd/mysql",
     "05 TrainReocrd/python",
     "未命名",

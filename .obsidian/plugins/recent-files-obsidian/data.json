@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-12-18 MeetingRecord",
-      "path": "02 MeetingRecord/2024-12-18 MeetingRecord.md"
-    },
-    {
-      "basename": "007、图像识别项目-人脸识别",
-      "path": "03 LessonMemos/数据挖掘和机器学习/007、图像识别项目-人脸识别.md"
+      "basename": "006、KNN分类模型进阶",
+      "path": "03 LessonMemos/数据挖掘和机器学习/006、KNN分类模型进阶.md"
     },
     {
       "basename": "02 单表查询",
       "path": "05 TrainReocrd/mysql/02 单表查询.md"
+    },
+    {
+      "basename": "2024-12-18 MeetingRecord",
+      "path": "02 MeetingRecord/2024-12-18 MeetingRecord.md"
+    },
+    {
+      "basename": "001、开窗函数(窗口)",
+      "path": "03 LessonMemos/MySql/001、开窗函数(窗口).md"
+    },
+    {
+      "basename": "017、决策树模型",
+      "path": "03 LessonMemos/数据挖掘和机器学习/017、决策树模型.md"
+    },
+    {
+      "basename": "002、数据集",
+      "path": "03 LessonMemos/数据挖掘和机器学习/002、数据集.md"
+    },
+    {
+      "basename": "001、初识",
+      "path": "03 LessonMemos/数据挖掘和机器学习/001、初识.md"
+    },
+    {
+      "basename": "总领",
+      "path": "04 DiyLearnMemos/总领.md"
+    },
+    {
+      "basename": "提问的智慧",
+      "path": "04 DiyLearnMemos/提问的智慧.md"
+    },
+    {
+      "basename": "01 空值判断类",
+      "path": "05 TrainReocrd/python/01 空值判断类.md"
+    },
+    {
+      "basename": "007、图像识别项目-人脸识别",
+      "path": "03 LessonMemos/数据挖掘和机器学习/007、图像识别项目-人脸识别.md"
     },
     {
       "basename": "01 简单汇总查询",
@@ -19,10 +51,6 @@
     {
       "basename": "06 字典操作",
       "path": "05 TrainReocrd/python/06 字典操作.md"
-    },
-    {
-      "basename": "001、开窗函数(窗口)",
-      "path": "03 LessonMemos/MySql/001、开窗函数(窗口).md"
     },
     {
       "basename": "013、逻辑回归模型",
@@ -41,10 +69,6 @@
       "path": "03 LessonMemos/数据挖掘和机器学习/016、广告渠道聚类分析.md"
     },
     {
-      "basename": "017、决策树模型",
-      "path": "03 LessonMemos/数据挖掘和机器学习/017、决策树模型.md"
-    },
-    {
       "basename": "Pandas练习",
       "path": "05 TrainReocrd/python/Pandas练习.md"
     },
@@ -59,10 +83,6 @@
     {
       "basename": "03 判断+列操作",
       "path": "05 TrainReocrd/python/03 判断+列操作.md"
-    },
-    {
-      "basename": "01 空值判断类",
-      "path": "05 TrainReocrd/python/01 空值判断类.md"
     },
     {
       "basename": "02 数据删除",
@@ -121,14 +141,6 @@
       "path": "03 LessonMemos/数据挖掘和机器学习/012、正则化处理-过拟合.md"
     },
     {
-      "basename": "001、初识",
-      "path": "03 LessonMemos/数据挖掘和机器学习/001、初识.md"
-    },
-    {
-      "basename": "002、数据集",
-      "path": "03 LessonMemos/数据挖掘和机器学习/002、数据集.md"
-    },
-    {
       "basename": "003、特征工程",
       "path": "03 LessonMemos/数据挖掘和机器学习/003、特征工程.md"
     },
@@ -139,10 +151,6 @@
     {
       "basename": "005、KNN分类模型实战",
       "path": "03 LessonMemos/数据挖掘和机器学习/005、KNN分类模型实战.md"
-    },
-    {
-      "basename": "006、KNN分类模型进阶",
-      "path": "03 LessonMemos/数据挖掘和机器学习/006、KNN分类模型进阶.md"
     },
     {
       "basename": "008、线性回归模型",
