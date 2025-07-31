@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "总领",
+      "path": "04 DiyLearnMemos/总领.md"
+    },
+    {
       "basename": "006、KNN分类模型进阶",
       "path": "03 LessonMemos/数据挖掘和机器学习/006、KNN分类模型进阶.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "001、初识",
       "path": "03 LessonMemos/数据挖掘和机器学习/001、初识.md"
-    },
-    {
-      "basename": "总领",
-      "path": "04 DiyLearnMemos/总领.md"
     },
     {
       "basename": "提问的智慧",
