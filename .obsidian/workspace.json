@@ -16,8 +16,23 @@
               "icon": "info",
               "title": "Thino 更新信息"
             }
+          },
+          {
+            "id": "47dbecc834ba0401",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,8 +227,9 @@
       "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "f846dde499748a2c",
+  "active": "47dbecc834ba0401",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "03 LessonMemos/数据挖掘和机器学习/006、KNN分类模型进阶.md",
     "05 TrainReocrd/mysql/02 单表查询.md",
     "02 MeetingRecord/2024-12-18 MeetingRecord.md",
@@ -249,7 +265,6 @@
     "attachment/Pasted image 20241226012302.png",
     "03 LessonMemos/数据分析模型/05 漏斗模型.md",
     "attachment/Pasted image 20241225213836.png",
-    "03 LessonMemos/数据分析模型/04 营销分析模型.md",
     "03 LessonMemos/数据分析模型",
     "05 TrainReocrd/mysql",
     "05 TrainReocrd/python",

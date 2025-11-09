@@ -86,7 +86,11 @@
   "MomentsIcon": "https://images.pexels.com/photos/256514/pexels-photo-256514.jpeg",
   "MomentsQuote": "pig can fly",
   "DefaultThemeForThino": "modern",
+<<<<<<< HEAD
   "LastUpdatedVersion": "2.8.8",
+=======
+  "LastUpdatedVersion": "2.7.17",
+>>>>>>> origin/main
   "ShareToThinoWithText": false,
   "ShareToThinoWithTextAppend": "",
   "ShareToThinoWithTextPrepend": "",

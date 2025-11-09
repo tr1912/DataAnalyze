@@ -120,7 +120,12 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
+<<<<<<< HEAD
   "previousRelease": "2.17.0",
+=======
+  "defaultTrayMode": true,
+  "previousRelease": "2.14.0",
+>>>>>>> origin/main
   "showReleaseNotes": true,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
