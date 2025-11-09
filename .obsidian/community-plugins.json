@@ -8,11 +8,11 @@
   "quick-explorer",
   "recent-files-obsidian",
   "obsidian-tasks-plugin",
-  "obsidian-excalidraw-plugin",
   "calendar",
   "obsidian-git",
-  "obsidian-memos",
   "markdown-prettifier",
   "obsidian-regex-pipeline",
-  "widgets"
+  "widgets",
+  "obsidian-excalidraw-plugin",
+  "obsidian-memos"
 ]
