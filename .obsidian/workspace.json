@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e1d02f26b1104163",
+        "id": "fa7f394dc2a8eb3a",
         "type": "tabs",
         "children": [
           {
-            "id": "54ef644f21830ea7",
+            "id": "f846dde499748a2c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "04 DiyLearnMemos/总领.md",
-                "bFile": "04 DiyLearnMemos/总领.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 总领"
+              "type": "thino-changelog-view",
+              "state": {},
+              "icon": "info",
+              "title": "Thino 更新信息"
             }
           }
         ]
@@ -199,6 +195,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -211,11 +209,10 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-memos:Thino": false,
-      "obsidian-regex-pipeline:Regex Rulesets": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
-  "active": "1a3d21c3609e9b91",
+  "active": "f846dde499748a2c",
   "lastOpenFiles": [
     "03 LessonMemos/数据挖掘和机器学习/006、KNN分类模型进阶.md",
     "05 TrainReocrd/mysql/02 单表查询.md",
