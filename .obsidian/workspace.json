@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "55f6920c403f92fc",
+        "id": "a380c2c726236559",
         "type": "tabs",
         "children": [
           {
-            "id": "771443e16adf09e5",
+            "id": "35f94404495dc97e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 DiyLearnMemos/总领.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "总领"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +80,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -209,6 +196,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
+      "widgets:Add widget": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -222,11 +211,14 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-memos:Thino": false,
-      "obsidian-regex-pipeline:Regex Rulesets": false
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "obsidian-memos:Thino Super": false
     }
   },
-  "active": "771443e16adf09e5",
+  "active": "35f94404495dc97e",
   "lastOpenFiles": [
+    "04 DiyLearnMemos/总领.md",
+    "README.md",
     "03 LessonMemos/数据挖掘和机器学习/006、KNN分类模型进阶.md",
     "05 TrainReocrd/mysql/02 单表查询.md",
     "02 MeetingRecord/2024-12-18 MeetingRecord.md",
@@ -234,7 +226,6 @@
     "03 LessonMemos/数据挖掘和机器学习/017、决策树模型.md",
     "03 LessonMemos/数据挖掘和机器学习/002、数据集.md",
     "03 LessonMemos/数据挖掘和机器学习/001、初识.md",
-    "04 DiyLearnMemos/总领.md",
     "04 DiyLearnMemos/提问的智慧.md",
     "05 TrainReocrd/python/01 空值判断类.md",
     "05 TrainReocrd/python/06 字典操作.md",
@@ -262,7 +253,6 @@
     "attachment/Pasted image 20241226012302.png",
     "03 LessonMemos/数据分析模型/05 漏斗模型.md",
     "attachment/Pasted image 20241225213836.png",
-    "03 LessonMemos/数据分析模型/04 营销分析模型.md",
     "03 LessonMemos/数据分析模型",
     "05 TrainReocrd/mysql",
     "05 TrainReocrd/python",

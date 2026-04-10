@@ -5,6 +5,10 @@
       "path": "04 DiyLearnMemos/总领.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "006、KNN分类模型进阶",
       "path": "03 LessonMemos/数据挖掘和机器学习/006、KNN分类模型进阶.md"
     },
