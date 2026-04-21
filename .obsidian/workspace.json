@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "25765e2c2d9c097f",
+        "id": "d54f9f4388e330e4",
         "type": "tabs",
         "children": [
           {
-            "id": "3ffd44b79e913869",
+            "id": "c97a73b3c70bd6e9",
             "type": "leaf",
             "state": {
-              "type": "thino-changelog-view",
+              "type": "empty",
               "state": {},
-              "icon": "info",
-              "title": "Thino 更新信息"
-            }
-          },
-          {
-            "id": "2c8d1862f42d6588",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,8 +195,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "widgets:Add widget": false,
-      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -220,9 +209,9 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
-      "pkmer:Open Pkmer Market": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-memos:Thino": false
+      "obsidian-memos:Thino": false,
+      "obsidian-memos:Thino Super": false
     }
   },
   "active": "1a3d21c3609e9b91",
